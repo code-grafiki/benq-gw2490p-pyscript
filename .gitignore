@@ -1,0 +1,7 @@
+# Ignore everything in this repository
+*
+
+# Keep the standalone monitor control script and its documentation
+!monitor_control.py
+!README.md
+!.gitignore
