@@ -118,3 +118,8 @@ python3 monitor_control.py --get brightness
 python3 monitor_control.py --set brightness 40
 python3 monitor_control.py --get brightness
 ```
+
+## AI usage disclosure
+
+Generative AI was used to assist in creating this script and documentation. The
+resulting code was reviewed and tested by a human before use.
